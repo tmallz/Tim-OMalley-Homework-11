@@ -9,3 +9,5 @@ This application has been deployed on a heroku server.
 See below screenshots of the application:
 
 ![image](https://user-images.githubusercontent.com/61262154/115596555-da3e1900-a29d-11eb-9ee4-528d34cebb7e.png)
+
+![image](https://user-images.githubusercontent.com/61262154/115596666-f9d54180-a29d-11eb-963e-1d8a462f0c85.png)
